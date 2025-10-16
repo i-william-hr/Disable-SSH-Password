@@ -22,7 +22,8 @@ A small Bash utility that checks if **root password login** is enabled on your D
 1. Download or copy the script:
 
 2. Run it as root:
-   ```bash secure-ssh-root.sh
+   ```
+   bash secure-ssh-root.sh
    ```
 
 3. The script will:
